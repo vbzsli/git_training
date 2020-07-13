@@ -1,5 +1,6 @@
 # git_training
-Issue 96 fix
-Issue96b fix
-Issue 97 fix
-Issue 98 fix
+Issue 96 fixed
+Issue 96b fixed
+Issue 97 fixed
+Issue 98 fixed
+Issue 100 fixed
